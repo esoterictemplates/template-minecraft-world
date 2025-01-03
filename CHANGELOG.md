@@ -14,6 +14,12 @@
 
 ## Log
 
+### 2.1.1
+
+#### Fixes
+
+- Fixed a wrong link in [README.md](./README.md).
+
 ### 2.1.0
 
 #### Additions
