@@ -28,3 +28,6 @@ dist
 
 # "Old" data files (?) - use git to restore previous versions, other than that, I don't think there is any purpose
 *.dat_old
+
+# Seemingly unnecessary random data
+data/random_sequences.dat
