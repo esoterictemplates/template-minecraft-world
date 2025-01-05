@@ -31,3 +31,6 @@ dist
 
 # Seemingly unnecessary random data
 data/random_sequences.dat
+
+# Server icon - not necessary - purely a vanity thing
+icon.png
