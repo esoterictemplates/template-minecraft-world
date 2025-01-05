@@ -42,7 +42,7 @@ The following serves as a checklist - a list of tasks to complete when creating 
 - [ ] Clear the [ideas](./IDEAS.md) file.
 - [ ] If you are using a different system to track features, ideas, and/or issues, delete those files respectively.
 - [ ] Delete [this file](./README.md) and rename [README_TEMPLATE.md](./README_TEMPLATE.md) to `README.md`.
-- [ ] Rename the world.
+- [ ] Rename the world ([level.dat](./level.dat)).
 - [ ] Commit your changes to version control if applicable.
 
 ## Features
