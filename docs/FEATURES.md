@@ -42,3 +42,7 @@ This file documents all of the features of this project.
 ## [level.dat](../level.dat)
 
 - Bare minimum settings for this world.
+
+## [Format Script](../scripts/format.js)
+
+- A script to format the `advancements` and `stats` folders which contain JSON data - this makes it better for version control.
