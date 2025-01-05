@@ -34,3 +34,8 @@ data/random_sequences.dat
 
 # Server icon - not necessary - purely a vanity thing
 icon.png
+
+# Data about raids - no way people are committing stuff while there is a raid active
+data/raids.dat
+DIM-1/data/raids.dat
+DIM1/data/raids_end.dat
