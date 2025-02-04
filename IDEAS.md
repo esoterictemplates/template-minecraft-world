@@ -7,5 +7,6 @@ This file is used to track ideas and planned features for this project. Implemen
 ## Considered
 
 - Create a script to prune chunks use JavaFX and MCASelector.
+- Create a script to remove unneeded "default" values from `level.dat`, essentially pruning it.
 
 ## Won't Implement
